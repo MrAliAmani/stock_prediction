@@ -80,7 +80,7 @@ The app can show the stock predictions for a chosen period with different machin
 
 Here you can see the AAPL stock prediction for 3 days ahead using the XGBoost algorithm.
 
-![output\results_prediction.png](output\results_prediction.png)
+![output\results_prediction.png](output/results_prediction.png)
 
 Another option is the visualization by the close price or some indicators. The options are listed below:
 
@@ -93,11 +93,11 @@ Another option is the visualization by the close price or some indicators. The o
 
 Here we have the AAPL stock visualization using the close price:
 
-![output\results_visualization.png](output\results_visualization.png)
+![output\results_visualization.png](output/results_visualization.png)
 
 The last option is to show the recent data in table format. The figure below shows the recent AAPL data:
 
-![output\results_recent_data.png](output\results_recent_data.png)
+![output\results_recent_data.png](output/results_recent_data.png)
 
 ## License
 
